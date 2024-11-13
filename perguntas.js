@@ -21,3 +21,15 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'Filosofia',
+    'De quem é a famosa frase “Penso, logo existo?',
+    'Descartes'
+)
+
+criaCartao(
+    'Geografia',
+    'Quais o menor e o maior país do mundo?',
+    'Vaticano e Rússia'
+)
